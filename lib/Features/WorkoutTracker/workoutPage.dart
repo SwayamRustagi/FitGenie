@@ -43,6 +43,8 @@ class _WorkoutPageState extends State<WorkoutPage> {
                   focusedBorder: OutlineInputBorder(
                       borderSide: BorderSide(
                         color: Colors.grey.shade400,
+
+
                       )
                   ),
                   fillColor: Colors.grey.shade200,
